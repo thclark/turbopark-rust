@@ -4,23 +4,24 @@
 [![Docs.rs](https://docs.rs/turbopark-rust/badge.svg)](https://docs.rs/turbopark-rust)
 [![CI](https://github.com/thclark/turbopark-rust/workflows/CI/badge.svg)](https://github.com/thclark/turbopark-rust/actions)
 [![Coverage Status](https://coveralls.io/repos/github/thclark/turbopark-rust/badge.svg?branch=main)](https://coveralls.io/github/thclark/turbopark-rust?branch=main)
+[![Rust GitHub Template](https://img.shields.io/badge/Rust%20GitHub-Template-blue)](https://rust-github.github.io/)
 
 ## Installation
 
 ### Cargo
 
-* Install the rust toolchain in order to have cargo installed by following
+- Install the rust toolchain in order to have cargo installed by following
   [this](https://www.rust-lang.org/tools/install) guide.
-* run `cargo install turbopark-rust`
+- run `cargo install turbopark-rust`
 
 ## License
 
 Licensed under either of
 
- * Apache License, Version 2.0
-   ([LICENSE-APACHE](LICENSE-APACHE) or http://www.apache.org/licenses/LICENSE-2.0)
- * MIT license
-   ([LICENSE-MIT](LICENSE-MIT) or http://opensource.org/licenses/MIT)
+- Apache License, Version 2.0
+  ([LICENSE-APACHE](LICENSE-APACHE) or http://www.apache.org/licenses/LICENSE-2.0)
+- MIT license
+  ([LICENSE-MIT](LICENSE-MIT) or http://opensource.org/licenses/MIT)
 
 at your option.
 
