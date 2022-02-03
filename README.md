@@ -14,17 +14,6 @@
   [this](https://www.rust-lang.org/tools/install) guide.
 - run `cargo install turbopark-rust`
 
-## License
-
-Licensed under either of
-
-- Apache License, Version 2.0
-  ([LICENSE-APACHE](LICENSE-APACHE) or http://www.apache.org/licenses/LICENSE-2.0)
-- MIT license
-  ([LICENSE-MIT](LICENSE-MIT) or http://opensource.org/licenses/MIT)
-
-at your option.
-
 ## Contribution
 
 Unless you explicitly state otherwise, any contribution intentionally submitted
