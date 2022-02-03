@@ -2,8 +2,8 @@
 
 [![Crates.io](https://img.shields.io/crates/v/turbopark-rust.svg)](https://crates.io/crates/turbopark-rust)
 [![Docs.rs](https://docs.rs/turbopark-rust/badge.svg)](https://docs.rs/turbopark-rust)
-[![CI](https://github.com/octue/turbopark-rust/workflows/CI/badge.svg)](https://github.com/octue/turbopark-rust/actions)
-[![Coverage Status](https://coveralls.io/repos/github/octue/turbopark-rust/badge.svg?branch=main)](https://coveralls.io/github/octue/turbopark-rust?branch=main)
+[![CI](https://github.com/thclark/turbopark-rust/workflows/CI/badge.svg)](https://github.com/thclark/turbopark-rust/actions)
+[![Coverage Status](https://coveralls.io/repos/github/thclark/turbopark-rust/badge.svg?branch=main)](https://coveralls.io/github/thclark/turbopark-rust?branch=main)
 
 ## Installation
 
